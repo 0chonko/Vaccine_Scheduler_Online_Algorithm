@@ -13,10 +13,141 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="txt">
+      <UniqueIdentifier>{0a846232-5eb5-453d-a953-2676bb674ac6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Vaccine_Scheduler_Online_Algorithm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\0.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-3.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-4.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-5.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-6.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-7.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-3.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-4.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-5.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-6.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\5-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\5-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\6.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\7-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\7-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\7-3.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\8.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\10.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\14.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\20-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\20-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\45.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\46.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\50-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\50-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\60.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\69.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-1.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-2.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-3.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-4.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\116.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\1000.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\5000.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\10000.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\50000.txt">
+      <Filter>txt</Filter>
+    </Text>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\1000000.txt">
+      <Filter>txt</Filter>
+    </Text>
   </ItemGroup>
 </Project>

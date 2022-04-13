@@ -153,6 +153,50 @@
   <ItemGroup>
     <ClCompile Include="Vaccine_Scheduler_Online_Algorithm.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\0.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\10.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\1000.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\10000.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\1000000.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\116.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\14.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\20-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\20-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-3.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-4.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-5.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-6.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\3-7.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-3.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-4.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-5.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\4-6.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\45.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\46.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\5-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\5-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\50-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\50-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\5000.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\50000.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\6.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\60.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\69.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\7-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\7-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\7-3.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\8.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-1.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-2.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-3.txt" />
+    <Text Include="D:\0_CompScience\Q1\Algorithms for decision support\Project\ADS_Online_Alg\txt\Online\96-4.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
